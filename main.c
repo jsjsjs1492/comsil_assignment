@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	cout << " comsil1\n";
-	cout << "test1\n";
+	cout << " comsil1\n comsil\n";
+	
 
 
 	return 0;
